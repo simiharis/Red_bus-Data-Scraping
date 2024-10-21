@@ -29,6 +29,6 @@ Steps to Scrape RedBus Data Using Selenium
 •	Search for Buses:
 
 •	Simulate entering a source and destination city and selecting a travel date.
-•	Extract Bus Details
+•	Extract Bus Details,
                  With the help of Streamlit, an interactive application similar to RedBus is made designing a user-friendly interface that allows users to search for bus routes, view available buses, and get details like departure times and prices.
 
