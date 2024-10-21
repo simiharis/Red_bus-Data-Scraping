@@ -1,5 +1,5 @@
 
-Red bus Data scraping with selenium and dynamic filtering using streamlit
+Red bus Data scraping with selenium and dynamic filtering using streamlit...
        Web scraping is the process of automatically extracting data from websites.In this Project, we aim to scrape data from RedBus, a popular online bus ticket booking platform, to extract useful information such as bus routes, timings, prices, and seat availability.
 
 Steps to Scrape RedBus Data Using Selenium
